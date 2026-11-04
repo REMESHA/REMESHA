@@ -80,9 +80,9 @@ Analyses statistiques et bioinformatiques menées en tant qu'ingénieur d'étude
 
 | Formation | Organisme | Date | Justificatif |
 | --- | --- | --- | --- |
-| **Introduction aux méta-analyses et revues systématiques** (35 h, suivie grâce à une bourse) | FRB-Cesab, UMS PatriNAT et Cirad Hortys, Montpellier | Octobre 2026 | [Voir l'attestation](https://github.com/REMESHA/REMESHA/blob/main/certificats/meta-analyses-revues-systematiques-2026.pdf) |
-| **Recherche clinique, évaluation des BPC investigateur V4** (ICH-E6(R3)), validée à 95,14 %, reconnue TransCelerate | GIRCI Île-de-France / CH de Versailles | Août 2026 | [Voir le certificat](https://github.com/REMESHA/REMESHA/blob/main/certificats/bpc-investigateur-2026.pdf) |
-| **Learn Single-Cell RNA-Seq Data Analysis Using R & Python** (formation d'initiation) | Udemy | Octobre 2025 | [Voir le certificat](https://github.com/REMESHA/REMESHA/blob/main/certificats/single-cell-rna-seq-2025.pdf) |
+| **Introduction aux méta-analyses et revues systématiques** (35 h, suivie grâce à une bourse) | FRB-Cesab, UMS PatriNAT et Cirad Hortys, Montpellier | Octobre 2026 | [Voir l'attestation](https://github.com/REMESHA/REMESHA/tree/main/certificats/meta-analyses-revues-systematiques-2026.pdf) | 
+| **Recherche clinique, évaluation des BPC investigateur V4** (ICH-E6(R3)), validée à 95,14 %, reconnue TransCelerate | GIRCI Île-de-France / CH de Versailles | Août 2026 | [Voir le certificat](https://github.com/REMESHA/REMESHA/tree/main/certificats/bpc-investigateur-2026.pdf) |
+| **Learn Single-Cell RNA-Seq Data Analysis Using R & Python** (formation d'initiation) | Udemy | Octobre 2025 | [Voir le certificat](https://github.com/REMESHA/REMESHA/tree/main/certificats/single-cell-rna-seq-2025.pdf) |
 
 ## 📄 Publication
 
